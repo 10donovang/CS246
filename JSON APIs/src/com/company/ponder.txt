@@ -1,0 +1,48 @@
+# 03 Ponder : Weekly Reflection
+
+1. Describe one challenge your team experienced working on the JSON parsing activity.
+Loading the JSON library. For some reason that took a little longer than needed. 
+
+
+2. For the Twitter API assignment, what did you learn about how APIs work?
+I learned that APIs can be very useful for Applications that need to retrieve data from websites. 
+
+
+3. Did you complete the Stretch Challenge for the Twitter API Assignment? If so, briefly describe which method you used.
+I did, only after understanding the teacher's solution. I used the lamda function, because it seemed the simpliest. Though I will say I am unused to using -> in code. For some reason I really don't like it. I don't know why. 
+
+
+4. What did you learn from comparing your code to the teacher's solution?
+That I had the right train of thought for almost all of the problems. I was a little unsure of the for loop but after looking at the teacher's solution, I realized that I almost had it and most likely my orignal thought process would have worked. 
+
+
+5. After completing the assignments this week, what questions do you still have?
+What all websites could you do this with? It seems like a really easy way to get a lot of information about somebody if you knew what you were doing. 
+
+
+6. Aside from just searching for tweets with a given hashtag, what is another use you could see for the twitter API?
+Like I said in the previous question, you could use it to find a ton of information about a specific user. 
+
+
+7. A common Java interview question is "Describe what an API is and how it's used". (Sometimes people refer to these types of APIs as "REST APIs") How would you answer that question?
+An application programming interface is used to pull information off of a given site, such as Facebook, Twitter, etc. After you sign up for a developer's account on the website you want data from, you would use the access key given to access the data in your program. Then you could do all sorts of data analyisis from the results. 
+
+
+8. Of all of the resources in this week's reading, which was the _most_ helpful to you and why?
+I would say the collections section was particularly useful. It was directly relatable, new information, and easy to understand. 
+
+
+9. Of all of the resources in this week's reading, which was the _least_ helpful to you and why?
+The Java Wrapper classes article felt like a reiteration of what we had read earlier from the description. 
+
+
+10. How many hours did you spend on this class this week?
+
+01 Prepare - 1
+01 Teach - 1
+01 Prove 1st Attempt -3
+01 Prove 2nd Attempt - .3
+01 Ponder - .15
+----------------------------
+Total Hours - 4.45
+
